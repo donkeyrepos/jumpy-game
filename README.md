@@ -7,4 +7,4 @@ Single or double jump can be made.
 <b>Official URL</b>: https://fsiamp.github.io/jumpy-game<br><br>
 <b>Google Play Store URL</b>: https://play.google.com/store/apps/details?id=appinventor.ai_fsiamp.Jumpy
 
-![alt tag](https://raw.githubusercontent.com/fsiamp/jumpy-game/master/assets/screen.png)
+![alt tag](https://raw.githubusercontent.com/tsiampos/jumpy/master/assets/screen.png)
